@@ -52,13 +52,17 @@ Key steps in preparing the dataset:
 
 ---
 
-## Screenshots
+## Screenshots/Demo
 ### Dashboard Overview
 <img width="673" alt="image" src="https://github.com/user-attachments/assets/d6d66d0f-abf3-486a-917d-612003faad11" />
 <img width="241" alt="image" src="https://github.com/user-attachments/assets/a87dc5b3-86c6-423e-a7e5-4b938916147a" />
 <img width="292" alt="image" src="https://github.com/user-attachments/assets/2513b438-34fe-4030-b8bc-f153a77d6df4" />
 <img width="322" alt="image" src="https://github.com/user-attachments/assets/3b6df5a6-de1c-46e8-b376-a65c468e8d68" />
 <img width="333" alt="image" src="https://github.com/user-attachments/assets/4f494ad1-572b-4faf-a585-f937a3e387bb" />
+
+### Demo
+
+https://github.com/user-attachments/assets/f6ecd903-6901-4e7a-9ffa-e401d14c3b86
 
 
 ---
