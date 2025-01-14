@@ -66,7 +66,3 @@ Key steps in preparing the dataset:
 ## How to Use
 1. **Clone the Repository**:
    - Download the `.pbix` file and open it in Power BI Desktop.
-2. **View Static Screenshots**:
-   - Check the `screenshots` folder for static images.
-3. **Interactive Demo**:
-   - If hosted online, use the provided link for an interactive view.
