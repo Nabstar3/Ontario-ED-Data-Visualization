@@ -1,7 +1,7 @@
 # ED Analytics Dashboard
 
 ## Overview
-This project showcases an **Emergency Department (ED) Analytics Dashboard** developed using **Power BI** to analyze ED visit trends across Ontario. The dashboard provides insights into ED utilization patterns by **region**, **age group**, and **gender**, highlighting trends and percentage changes between **2015/17** and **2018/20**. This work demonstrates my ability to clean data, derive actionable insights, and create impactful visualizations for healthcare decision-making.
+This project showcases an **Emergency Department (ED) Analytics Dashboard** developed using **Power BI** to analyze ED visit trends across Ontario. The dashboard provides insights into ED utilization patterns by **region**, **age group**, and **gender**, highlighting trends and percentage changes between **2015/17** and **2018/20**. This work demonstrates my ability to clean and analyze data, ensuring its integrity and reliability. By emphasizing data extraction and predictive analytics, I aim to deliver meaningful insights that support healthcare decision-making.
 
 ---
 
