@@ -62,7 +62,7 @@ Key steps in preparing the dataset:
 
 ### Demo
 
-https://github.com/user-attachments/assets/f6ecd903-6901-4e7a-9ffa-e401d14c3b86
+https://github.com/user-attachments/assets/f1af0ebe-c1eb-4591-88ba-9cd222fa5f9f
 
 
 ---
